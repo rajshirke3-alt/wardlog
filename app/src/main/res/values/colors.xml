@@ -1,0 +1,35 @@
+<resources>
+    <!-- Core brand -->
+    <color name="primary">#0B4F4A</color>
+    <color name="primary_dark">#073B37</color>
+    <color name="primary_light">#146F67</color>
+    <color name="primary_tint">#E6F1EF</color>
+
+    <!-- Accent, used sparingly for the FAB and highlights -->
+    <color name="accent">#C9A227</color>
+    <color name="accent_dark">#A6841C</color>
+
+    <!-- Surfaces -->
+    <color name="background">#F7F5F1</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_alt">#F1EFEA</color>
+    <color name="header_bg">#0B4F4A</color>
+
+    <!-- Text -->
+    <color name="text_primary">#1F2A2A</color>
+    <color name="text_secondary">#5B6B6A</color>
+    <color name="on_primary">#FFFFFF</color>
+    <color name="muted">#5B6B6A</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Lines & states -->
+    <color name="divider">#E2E0D8</color>
+    <color name="ripple">#220B4F4A</color>
+    <color name="danger">#B3261E</color>
+
+    <!-- Dictionary category tags -->
+    <color name="tag_doctor_bg">#E6F1EF</color>
+    <color name="tag_doctor_text">#0B4F4A</color>
+    <color name="tag_term_bg">#F1EDE0</color>
+    <color name="tag_term_text">#8A6D1E</color>
+</resources>

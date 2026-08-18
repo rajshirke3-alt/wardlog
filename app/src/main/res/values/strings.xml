@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WardLog</string>
+    <string name="search_hint">Search bed, name, consultant, details…</string>
+    <string name="export_pdf">Export PDF</string>
+    <string name="print">Print</string>
+    <string name="col_bed">Bed No.</string>
+    <string name="col_name">Patient Name</string>
+    <string name="col_consultant">Primary Consultant</string>
+    <string name="col_details">Details</string>
+    <string name="empty_state">No records yet.\nTap the + button to add one.</string>
+    <string name="voice_input">🎤 Hold to Record</string>
+    <string name="recording_hold_status">🔴 Recording… release to stop</string>
+    <string name="listening_status">Listening…</string>
+
+    <string name="dictionary_title">Dictionary</string>
+    <string name="dictionary_subtitle">Terms and doctor names used to auto-correct voice input. Add, edit, or remove entries any time — changes apply immediately, no update needed.</string>
+    <string name="dictionary_empty_state">No dictionary entries yet.\nTap + to add a medical term or doctor name.</string>
+    <string name="dictionary_add_title">Add Dictionary Entry</string>
+    <string name="dictionary_edit_title">Edit Dictionary Entry</string>
+    <string name="dictionary_category_term">Medical Term</string>
+    <string name="dictionary_category_doctor">Doctor Name</string>
+    <string name="dictionary_alias_label">What it sounds like when misheard</string>
+    <string name="dictionary_alias_hint">e.g. colon oscopy</string>
+    <string name="dictionary_correct_spelling_label">Correct spelling</string>
+    <string name="dictionary_correct_spelling_hint">e.g. Colonoscopy</string>
+    <string name="dictionary_doctor_name_hint">Full name, without \"Dr\" (e.g. Yatin Sagwekar)</string>
+</resources>
